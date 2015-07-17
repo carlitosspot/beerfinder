@@ -1,2 +1,4 @@
 # beerfinder
-Finds beer brands based on beer types
+
+First Android App!!
+- Finds beer brands based on beer types
