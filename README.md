@@ -23,7 +23,7 @@ Solarized
 
 ## Precision colors for machines and people
 
-[![First android app](screenshots/carlos_renoj_android_1_ss_1.png)](#beerfinder)
+[![First android app](blob/masters/creenshots/carlos_renoj_android_1_ss_1.png)](#beerfinder)
 
 Solarized is a sixteen color palette (eight monotones, eight accent colors)
 designed for use with terminal and gui applications. It has several [unique
